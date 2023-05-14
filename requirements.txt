@@ -1,4 +1,5 @@
 aiocache
+asyncpg
 aiofiles
 aiogram
 aiohttp[speedups]
