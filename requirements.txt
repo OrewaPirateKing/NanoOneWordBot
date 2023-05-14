@@ -5,9 +5,12 @@ aiofiles
 aiogram
 aiohttp[speedups]
 asyncio-periodic
+aiohttp
+aiofiles
 asyncpg
 matplotlib
 pillow
 pycairo
+DAWG
 DAWG
 python-telegram-bot
