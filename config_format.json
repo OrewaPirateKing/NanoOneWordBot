@@ -1,12 +1,12 @@
 {
-    "TOKEN": "",
-    "ON9BOT_TOKEN": "",
-    "DB_URI": "",
+    "TOKEN": "6142266368:AAGfkcM2QMoXNJJVGV6qdZpTZ3JYBAzzLbU",
+    "ON9BOT_TOKEN": "6295293651:AAEMBiNvTMvIHylebwaWW4KvYsTaBE7Y7r4",
+    "DB_URI": "mongodb+srv://sonu55:sonu55@cluster0.vqztrvk.mongodb.net/?retryWrites=true&w=majority",
     "PROVIDER_TOKEN": "",
-    "OWNER_ID": 69420,
-    "ADMIN_GROUP_ID": 69420,
-    "OFFICIAL_GROUP_ID": 69420,
-    "WORD_ADDITION_CHANNEL_ID": 69420,
+    "OWNER_ID": 6299128233,
+    "ADMIN_GROUP_ID": -1001801580224,
+    "OFFICIAL_GROUP_ID": -1001801580224,
+    "WORD_ADDITION_CHANNEL_ID": -1001882694654,
     "VIP": [],
     "VIP_GROUP": []
 }
