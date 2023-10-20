@@ -12,5 +12,4 @@ matplotlib
 pillow
 pycairo
 DAWG
-DAWG
 python-telegram-bot
